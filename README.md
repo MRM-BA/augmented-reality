@@ -1,20 +1,12 @@
-## [WebRCT] (Web Real-Time Communication)
+## [WebRCT]
 
-Estándar abierto descrito por el W3C que pretende ofrecer audio y video en los navegadores
+Web Real-Time Communication es un estándar abierto descrito por el W3C que pretende ofrecer audio y video en los navegadores
 Es una API que está siendo elaborada por la World Wide Web Consortium (W3C) para permitir a las aplicaciones del navegador realizar llamadas de voz, chat de vídeo y uso compartido de archivos P2P sin plugins
 
-## Habilitación WebRTC
+### Habilitación WebRTC
 
-+ Chrome
-
-chrome://flags/
-
-+ Firefox
-
-Escriba "about:config" en la barra de direcciones y diga que sí quiere efectuar los cambios
-Busque la entrada de "media.navigator.enabled" entry y establezca su valos a "true" [sin comillas]
-
-https://developer.mozilla.org/es/docs/WebRTC/MediaStream_API
++ [Chrome]
++ [Firefox]
 
 ## [WebGL]
 
@@ -36,24 +28,23 @@ Cuando transfieres un elemento canvas a JSARToolKit para analizarlo, JSARToolKit
 
 Para analizar un vídeo mediante JSARToolKit, dibuja el vídeo en un elemento canvas y, a continuación, transfiere el elemento canvas a JSARToolKit. Realiza esta acción para todos los fotogramas y obtendrás el tracking de realidad aumentada. JSARToolKit funciona con la suficiente rapidez en motores JavaScript modernos como para realizar este proceso en tiempo real incluso en fotogramas de vídeo de 640x480. Sin embargo, cuanto mayor sea el fotograma de vídeo, más tiempo se tardará en completar el proceso. Un tamaño adecuado para un fotograma de vídeo sería 320x240, pero si tienes previsto utilizar marcadores pequeños o varios marcadores, es preferible utilizar un tamaño de 640x480.
 
+## [Canvas]
+
+Es un elemento HTML que puede usarse para dibujar gráficos a través de scripting (normalmente JavaScript). Por ejemplo, puede emplearse para dibujar gráficos, hacer composición de fotos, crear animaciones e incluso procesamiento de vídeo en tiempo real
+
 ## BLOB (Binary Large Objects, objetos binarios grandes) 
 
 Son elementos utilizados en las bases de datos para almacenar datos de gran tamaño que cambian de forma dinámica. No todos los Sistemas Gestores de Bases de Datos son compatibles con los BLOB.
 
 Generalmente, estos datos son imágenes, archivos de sonido y otros objetos multimedia; a veces se almacenan como BLOB código de binarios.
 
-## [Canvas]
-
-Es un elemento HTML que puede usarse para dibujar gráficos a través de scripting (normalmente JavaScript). Por ejemplo, puede emplearse para dibujar gráficos, hacer composición de fotos, crear animaciones e incluso procesamiento de vídeo en tiempo real
-
-
 ## Sitios de referencias
 
-http://www.html5rocks.com/es/tutorials/webgl/jsartoolkit_webrtc/
-http://edumo.net/wp/realidad-aumentada-sobre-html5/
-http://edumo.net/wp/
-https://github.com/webrtc/samples (samples webRTC)
-http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
+1. http://www.html5rocks.com/es/tutorials/webgl/jsartoolkit_webrtc/
+2. http://edumo.net/wp/realidad-aumentada-sobre-html5/
+3. http://edumo.net/wp/
+4. https://github.com/webrtc/samples (samples webRTC)
+5. http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
 
 
 
@@ -62,4 +53,7 @@ http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
 [WebGL]: https://get.webgl.org/ 
 [JSARToolKit]: https://github.com/kig/JSARToolKit
 [Canvas]: https://developer.mozilla.org/es/docs/Web/HTML/Canvas
+[Chrome]: chrome://flags/
+[Firefox]: https://developer.mozilla.org/es/docs/WebRTC/MediaStream_API
+
 
