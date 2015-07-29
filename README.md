@@ -53,7 +53,7 @@ Generalmente, estos datos son imágenes, archivos de sonido y otros objetos mult
 [WebGL]: https://get.webgl.org/ 
 [JSARToolKit]: https://github.com/kig/JSARToolKit
 [Canvas]: https://developer.mozilla.org/es/docs/Web/HTML/Canvas
-[Chrome]: chrome://flags/
+[Chrome]: http://chrome://flags/
 [Firefox]: https://developer.mozilla.org/es/docs/WebRTC/MediaStream_API
 
 
