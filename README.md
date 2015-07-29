@@ -43,8 +43,8 @@ Generalmente, estos datos son imágenes, archivos de sonido y otros objetos mult
 1. http://www.html5rocks.com/es/tutorials/webgl/jsartoolkit_webrtc/
 2. http://edumo.net/wp/realidad-aumentada-sobre-html5/
 3. http://edumo.net/wp/
-4. https://github.com/webrtc/samples (samples webRTC)
-5. http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
+4. https://github.com/webrtc/samples 
+5. http://www.justareflektor.com/ 
 
 
 
