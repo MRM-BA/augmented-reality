@@ -48,16 +48,20 @@ Es un elemento HTML que puede usarse para dibujar gráficos a través de scripti
 
 https://developer.mozilla.org/es/docs/Web/HTML/Canvas
 
-[real] : http://threejs.org/
-[tree.js] : http://threejs.org/ 
-[WebRCT] : http://www.webrtc.org/ 
-[WebGL] : https://get.webgl.org/ 
-[JSARToolKit] : https://github.com/kig/JSARToolKit
 
+
+## Sitios de referencias
 
 http://www.html5rocks.com/es/tutorials/webgl/jsartoolkit_webrtc/
 http://edumo.net/wp/realidad-aumentada-sobre-html5/
 http://edumo.net/wp/
 https://github.com/webrtc/samples (samples webRTC)
 http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
+
+
+[real] : http://threejs.org/
+[tree.js] : http://threejs.org/ 
+[WebRCT] : http://www.webrtc.org/ 
+[WebGL] : https://get.webgl.org/ 
+[JSARToolKit] : https://github.com/kig/JSARToolKit
 
