@@ -1,11 +1,9 @@
-## WebRCT (Web Real-Time Communication)
+## [WebRCT] (Web Real-Time Communication)
 
 Estándar abierto descrito por el W3C que pretende ofrecer audio y video en los navegadores
 Es una API que está siendo elaborada por la World Wide Web Consortium (W3C) para permitir a las aplicaciones del navegador realizar llamadas de voz, chat de vídeo y uso compartido de archivos P2P sin plugins
 
-## Webgl
-
-Es una especificación estándar que está siendo desarrollada actualmente para poder renderizar mediante GPU en páginas web
+## [WebGL]
 
 Es una especificación estándar que está siendo desarrollada actualmente para mostrar gráficos en 3D en navegadores web. El WebGL permite mostrar gráficos en 3D acelerados por hardware (GPU) en páginas web, sin la necesidad de plug-ins en cualquier plataforma que soporte OpenGL 2.0 u OpenGL ES 2.0. Técnicamente es un API para javascript que permite usar la implementación nativa de OpenGL ES 2.0 que será incorporada en los navegadores
 
@@ -52,18 +50,15 @@ Es un elemento HTML que puede usarse para dibujar gráficos a través de scripti
 https://developer.mozilla.org/es/docs/Web/HTML/Canvas
 
 
-tree.js : https://github.com/mrdoob/three.js
-JSARToolKit : https://github.com/kig/JSARToolKit
+[tree.js] : http://threejs.org/ 
+[WebRCT] : http://www.webrtc.org/ 
+[WebGL] : https://get.webgl.org/ 
+[JSARToolKit] : https://github.com/kig/JSARToolKit
 
 
 http://www.html5rocks.com/es/tutorials/webgl/jsartoolkit_webrtc/
 http://edumo.net/wp/realidad-aumentada-sobre-html5/
 http://edumo.net/wp/
 https://github.com/webrtc/samples (samples webRTC)
-http://www.webrtc.org/ (Oficial webRTC)
-http://threejs.org/ (Oficial threejs)
-https://get.webgl.org/ (Webgl)
-http://threejs.org/ (threejs)
 http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
 
-augmented reality
