@@ -44,7 +44,7 @@ Generalmente, estos datos son imágenes, archivos de sonido y otros objetos mult
 
 ## Canvas
 
-Es un elemento HTML que puede usarse para dibujar gráficos a través de scripting (normalmente JavaScript). Por ejemplo, puede emplearse para dibujar gráficos, hacer composición de fotos, crear animaciones e incluso procesamiento de vídeo en tiempo [real]
+Es un elemento HTML que puede usarse para dibujar gráficos a través de scripting (normalmente JavaScript). Por ejemplo, puede emplearse para dibujar gráficos, hacer composición de fotos, crear animaciones e incluso procesamiento de vídeo en tiempo real
 
 https://developer.mozilla.org/es/docs/Web/HTML/Canvas
 
@@ -59,9 +59,10 @@ https://github.com/webrtc/samples (samples webRTC)
 http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
 
 
-[real] : http://threejs.org/
-[tree.js] : http://threejs.org/ 
-[WebRCT] : http://www.webrtc.org/ 
-[WebGL] : https://get.webgl.org/ 
-[JSARToolKit] : https://github.com/kig/JSARToolKit
+
+
+[tree.js]: http://threejs.org/ 
+[WebRCT]: http://www.webrtc.org/ 
+[WebGL]: https://get.webgl.org/ 
+[JSARToolKit]: https://github.com/kig/JSARToolKit
 
