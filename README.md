@@ -42,12 +42,9 @@ Son elementos utilizados en las bases de datos para almacenar datos de gran tama
 
 Generalmente, estos datos son imágenes, archivos de sonido y otros objetos multimedia; a veces se almacenan como BLOB código de binarios.
 
-## Canvas
+## [Canvas]
 
 Es un elemento HTML que puede usarse para dibujar gráficos a través de scripting (normalmente JavaScript). Por ejemplo, puede emplearse para dibujar gráficos, hacer composición de fotos, crear animaciones e incluso procesamiento de vídeo en tiempo real
-
-https://developer.mozilla.org/es/docs/Web/HTML/Canvas
-
 
 
 ## Sitios de referencias
@@ -60,9 +57,9 @@ http://www.justareflektor.com/ (Ejemplo de realidad aumentada con threejs)
 
 
 
-
-[tree.js]: http://threejs.org/ 
 [WebRCT]: http://www.webrtc.org/ 
+[three.js]: http://threejs.org/  
 [WebGL]: https://get.webgl.org/ 
 [JSARToolKit]: https://github.com/kig/JSARToolKit
+[Canvas]: https://developer.mozilla.org/es/docs/Web/HTML/Canvas
 
