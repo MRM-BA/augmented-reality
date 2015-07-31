@@ -45,6 +45,10 @@ Generalmente, estos datos son imágenes, archivos de sonido y otros objetos mult
 3. http://edumo.net/wp/
 4. https://github.com/webrtc/samples 
 5. http://www.justareflektor.com/ 
+6. http://doc.x3dom.org/tutorials/applicationTutorials/simpleAR/index.html
+7. http://www.html5rocks.com/en/tutorials/getusermedia/intro/
+8. https://developer.mozilla.org/es/docs/Web/API/Navigator/getUserMedia
+9. http://blog.onthewings.net/2009/05/23/flartoolkit-trick-use-a-colored-marker/
 
 
 
